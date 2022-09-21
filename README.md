@@ -1,2 +1,0 @@
-# Git Start
-Assignments (personal)
